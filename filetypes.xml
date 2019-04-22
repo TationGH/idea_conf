@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="UserTableMapper.xml" type="PLAIN_TEXT" />
+      <mapping pattern="UserTableMapper" type="XML" />
+      <mapping pattern="mybatis-config" type="XML" />
+    </extensionMap>
+  </component>
+</application>
