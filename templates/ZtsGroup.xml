@@ -1,0 +1,12 @@
+<templateSet group="ZtsGroup">
+  <template name="zts" value="*&#10; * @Author Zts&#10; * @Date $date$ $time$&#10; * @Method $method$&#10; * @Description&#10; * @Param $param$&#10; * @Return $return$&#10; **/" description="测试" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="method" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
