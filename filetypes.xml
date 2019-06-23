@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="UserTableMapper.xml" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping pattern="UserTableMapper" type="XML" />
       <mapping pattern="mybatisconfig" type="XML" />
       <mapping pattern="mybatis-config" type="XML" />
