@@ -378,7 +378,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1e1e1e" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="9dd871" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -468,7 +468,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="aa08f" />
+        <option name="BACKGROUND" value="f4ffa4" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
