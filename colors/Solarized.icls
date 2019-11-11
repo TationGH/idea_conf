@@ -468,7 +468,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="7dedcc" />
+        <option name="BACKGROUND" value="abede7" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
@@ -486,7 +486,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="FOREGROUND" value="7dedcc" />
+        <option name="FOREGROUND" value="abede7" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
