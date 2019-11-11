@@ -25,7 +25,7 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="1e1e1e" />
     <option name="INDENT_GUIDE" value="0" />
-    <option name="LINE_NUMBERS_COLOR" value="d0d0d0" />
+    <option name="LINE_NUMBERS_COLOR" value="edcd5f" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -468,7 +468,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f4ffa4" />
+        <option name="BACKGROUND" value="7dedcc" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
@@ -486,7 +486,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="FOREGROUND" value="d8d8d8" />
+        <option name="FOREGROUND" value="7dedcc" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
