@@ -1,7 +1,0 @@
-<application>
-  <component name="GiteeAccounts">
-    <account id="c2baa1e0-6e67-4999-884c-9765173fa621" name="ostation">
-      <Server host="gitee.com" />
-    </account>
-  </component>
-</application>
